@@ -1,0 +1,1 @@
+const addCourse = (course) => course;
